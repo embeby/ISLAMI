@@ -1,0 +1,1 @@
+ C:\\Users\\Mido\\StudioProjects\\new_version_islame\\.dart_tool\\flutter_build\\2931e7b5f1365517373dde25713fa0e9\\native_assets.yaml: 
